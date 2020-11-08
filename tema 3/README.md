@@ -1,11 +1,10 @@
 # Resolución ejercicios autoevaluación tema 3
+
 ## Ejercicio 1.
 
 Instalar docker y/o otro gestor de contenedores como Podman/Buildah.
 
-
 ![](../docs/tema3/docker.png)
-
 
 ## Ejercicio 2.
 
