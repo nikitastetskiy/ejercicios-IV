@@ -29,3 +29,6 @@ Tomar alguna de las funciones de prueba de Netlify, y hacer despliegues de prueb
 - Nos Logeamos: `netlify login`
 - Automated setup: `netlify init`
 - Creamos archivo de configuración: `netlify.toml`
+- Creamos funcion hola: `ntl function:create hola`
+
+![](../docs/tema5/cap3.png)
