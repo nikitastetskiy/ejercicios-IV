@@ -28,3 +28,4 @@ Tomar alguna de las funciones de prueba de Netlify, y hacer despliegues de prueb
 - Instalamos: `npm install netlify-cli -g`
 - Nos Logeamos: `netlify login`
 - Automated setup: `netlify init`
+- Creamos archivo de configuración: `netlify.toml`
