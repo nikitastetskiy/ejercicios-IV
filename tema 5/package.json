@@ -1,0 +1,14 @@
+{
+  "name": "tema-5",
+  "version": "1.0.0",
+  "description": "Prueba tema 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Stetskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/node": "^1.8.5"
+  }
+}
