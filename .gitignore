@@ -1,5 +1,3 @@
 .DS_Store
-
-tema\ 5/node_modules/
-tema\ 5/node_modules/.*
-tema\ 5/node_modules/.gitignore
+.vercel
+node_modules/
